@@ -73,5 +73,3 @@ This project investigates how Tata 1mg leverages technology, data science, and s
 - Practical strategies for brand growth, churn reduction, and engagement
 
 ---
-
-## 📁 Folder Structure
