@@ -63,13 +63,3 @@ This project investigates how Tata 1mg leverages technology, data science, and s
 - Strategy to improve app usage and clarify complex personalized health advice
 
 ---
-
-## 📈 Key Outcomes
-
-- ₹88.56 Cr potential savings via supply chain optimization  
-- ₹4.8 Cr revenue gain from 20% telemedicine shift  
-- Defined ER schema for digital healthcare platforms  
-- 60–70% average 60-day app retention rate in cohort simulation  
-- Practical strategies for brand growth, churn reduction, and engagement
-
----
